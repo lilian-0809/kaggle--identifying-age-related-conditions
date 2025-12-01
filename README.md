@@ -1,2 +1,4 @@
 # kaggle--identifying-age-related-conditions
 試合データには、50以上の匿名化された健康特性が含まれており、これらは3種類の加齢関連疾患に関連しています。あなたの目標は、ある被験者がこれらの疾患のいずれかを診断されているかどうかを予測することです——これは二値分類問題です。
+
+see details in master branch
